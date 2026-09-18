@@ -11,4 +11,4 @@
     python -m pip install --upgrade pip
 
 # 4. to run the type:
-python stock_strategy_debriefer.py
+python real_estate_cma_graph.py
